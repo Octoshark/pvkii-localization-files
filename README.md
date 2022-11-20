@@ -1,1 +1,2 @@
 # pvkii-localization-files
+THIS REPO IS CURRENTLY UNUSED AND NOT MONITORED!
